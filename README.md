@@ -1,4 +1,4 @@
-# Pancake Swap Lib
+# MintSwap Lib
 
 
 Solidity libraries that are shared across Uniswap contracts. These libraries are focused on safety and gas efficiency.
@@ -13,10 +13,10 @@ Run `yarn test` to execute the test suite.
 
 ## Usage
 
-Install this in another project via `yarn add @uniswap/lib` 
+Install this in another project via `yarn add @mintswap/mintswap-lib` 
 
 Then import the contracts via:
 
 ```solidity
-import "@pancakeswap/pancake-swap-lib/contracts/access/Ownable.sol"; 
+import "@mintswap/mintswap-lib/contracts/access/Ownable.sol"; 
 ```
